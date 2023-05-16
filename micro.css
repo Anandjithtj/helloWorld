@@ -1,0 +1,61 @@
+body {
+  background-color: rgb(0, 0, 0);
+}
+
+h1 {
+  color: rgb(120, 120, 120);
+  font-size: 80px;
+  font-family: sans-serif;
+  text-transform: uppercase;
+  text-align: center;
+
+  font-weight: bold;
+}
+
+header {
+  background-color: rgb(81, 46, 9);
+}
+h3 {
+  color: rgb(120, 120, 120);
+  font-family: sans-serif;
+  text-align: center;
+}
+
+h2 {
+  color: rgb(81, 46, 9);
+  font-family: sans-serif;
+  text-align: center;
+  font-weight: bold;
+  text-shadow: 0cap;
+  font-size: 30px;
+}
+
+.a4 {
+  width: 1458px;
+  height: auto;
+}
+
+p {
+  color: rgb(255, 255, 255);
+  font-family: sans-serif;
+}
+a {
+  font-family: sans-serif;
+  color: rgb(110, 63, 12);
+  text-decoration: none;
+  padding-left: 30px;
+}
+a:hover {
+  font-weight: bold;
+  color: white;
+  text-decoration: underline;
+  cursor: pointer;
+}
+.contact {
+  width: 1500px;
+  height: auto;
+}
+
+footer {
+  border-top: 5px;
+}
